@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1002580589762",
+    "firebase_url": "https://puninpr20-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "puninpr20",
+    "storage_bucket": "puninpr20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002580589762:android:1786abf24bd4d4e2e8cf5b",
+        "android_client_info": {
+          "package_name": "com.example.puninpr20"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyNM6Siw4WDykcNe4EqpBmMFGufWS2DWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
